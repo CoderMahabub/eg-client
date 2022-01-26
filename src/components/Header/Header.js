@@ -7,7 +7,7 @@ const Header = () => {
 		<Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
 			<Container>
 				<Navbar.Brand as={HashLink} to="/">
-					EndGame Client
+					EndGame Travel
 				</Navbar.Brand>
 				<Navbar.Toggle aria-controls="responsive-navbar-nav" />
 				<Navbar.Collapse id="responsive-navbar-nav">
